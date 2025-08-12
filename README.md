@@ -7,9 +7,11 @@ I'm a passionate Computer Engineering student specializing in Django, React, and
 🌱 Learning advanced Machine Learning and Full-stack Development.
 
 📫 You can reach me at sutharkrutik@gmail.com
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krutik-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/krutik-suthar-675197277)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krutik-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krutik-suthar-675197277)
 [![GitHub followers](https://img.shields.io/github/followers/sutharkrutik?style=social)](https://github.com/sutharkrutik)
-[Download my CV](https://github.com/sutharkrutik/resume/raw/main/Krutik_Suthar_CV.pdf)
+
+---
+
+📄 **[Download My CV](https://github.com/sutharkrutik/resume/blob/main/Krutik_Suthar_CV.pdf)**
 
 
