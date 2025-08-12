@@ -28,10 +28,11 @@ A passionate Computer Engineering student with hands-on experience in web develo
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krutik-suthar-675197277) &nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sutharkrutik@gmail.com) &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/sutharkrutik) &nbsp;&nbsp;
-[![CV](https://img.shields.io/badge/-CV-blue?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/sutharkrutik/resume/blob/main/Krutik_Suthar_CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krutik-suthar-675197277) &nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sutharkrutik@gmail.com) &nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sutharkrutik) &nbsp;&nbsp;
+[![CV](https://img.shields.io/badge/-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/sutharkrutik/resume/blob/main/Krutik_Suthar_CV.pdf)
+
 
 
 ---
