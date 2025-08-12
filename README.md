@@ -1,10 +1,21 @@
-# Hi there, I'm Krutik! 👋
+# Hi there 👋 I'm **Suthar Krutik**
 
-I'm a passionate Computer Engineering student specializing in Django, React, and ML.
+A passionate Computer Engineering student with hands-on experience in web development and data science. I enjoy building projects, solving problems, and learning new technologies — with interests in:  
+🌐 Web Development (Django, React), 📊 Data Science, 🤖 Machine Learning, and 💡 Innovation.
 
-🔭 Currently working on [Find My Room](https://github.com/sutharkrutik/FindmyRoom) and [Covid Dashboard](https://github.com/sutharkrutik/Covid_Dashboard).
+🔭 I’m currently working on:  
+- Real estate web applications and dashboard projects  
+- Enhancing my skills in full-stack development and data analysis  
 
-🌱 Learning advanced Machine Learning and Full-stack Development.
+💡 I’m interested in all things tech: Python, Django, React, JavaScript, Data Visualization, and AI.
+
+💬 Feel free to talk to me about coding, tech trends, or anything interesting!
+
+🧑‍🎓 Currently pursuing B.E. in Computer Engineering at LJ Institute of Engineering & Technology.
+
+**My skills include:**  
+Python, Django, React, JavaScript, HTML, CSS, SQL, Git, Data Science tools (Pandas, NumPy, Matplotlib), and more.
+
 
 📫 You can reach me at sutharkrutik@gmail.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Krutik-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krutik-suthar-675197277)
