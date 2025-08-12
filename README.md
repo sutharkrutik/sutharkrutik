@@ -8,5 +8,5 @@ I'm a passionate Computer Engineering student specializing in Django, React, and
 
 📫 You can reach me at sutharkrutik@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krutik-blue?style=flat&logo=linkedin)](www.linkedin.com/in/krutik-suthar-675197277)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krutik-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/krutik-suthar-675197277)
 [![GitHub followers](https://img.shields.io/github/followers/sutharkrutik?style=social)](https://github.com/sutharkrutik)
