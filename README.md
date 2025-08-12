@@ -28,11 +28,16 @@ A passionate Computer Engineering student with hands-on experience in web develo
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krutik-suthar-675197277) &nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sutharkrutik@gmail.com) &nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sutharkrutik) &nbsp;&nbsp;
-[![CV](https://img.shields.io/badge/-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/sutharkrutik/resume/blob/main/Krutik_Suthar_CV.pdf)
-
-
-
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/krutik-suthar-675197277" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:sutharkrutik@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sutharkrutik" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
